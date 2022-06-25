@@ -10,8 +10,8 @@
       "pyrogram",
       "bot"
     ],
-    "wewebsite": "https://github.com/tomten88/LuciferMoringstar-Robot",
-    "repository": "https://github.com/tomten88/LuciferMoringstar-Robot",
+    "wewebsite": "https://github.com/tomten88/LuciferMoringstar-Robot?organization=tomten88&organization=tomten88",
+    "repository": "https://github.com/tomten88/LuciferMoringstar-Robot?organization=tomten88&organization=tomten88",
     "env": {
         "API_HASH": {
             "description": "Get this value from :- https://youtu.be/5eEsvLAKVc0",
